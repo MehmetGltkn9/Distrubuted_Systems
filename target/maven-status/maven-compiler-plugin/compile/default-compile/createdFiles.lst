@@ -1,0 +1,10 @@
+com\example\distributedsystem\config\RedisHealthIndicator.class
+com\example\distributedsystem\controller\CustomErrorController.class
+com\example\distributedsystem\controller\TestController.class
+com\example\distributedsystem\config\WebConfig.class
+com\example\distributedsystem\repository\UserRepository.class
+com\example\distributedsystem\config\RedisConfig.class
+com\example\distributedsystem\controller\HomeController.class
+com\example\distributedsystem\model\User.class
+com\example\distributedsystem\controller\UserController.class
+com\example\distributedsystem\DistributedSystemApplication.class
